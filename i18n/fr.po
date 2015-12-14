@@ -1,0 +1,365 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* BBCreports
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-13 12:32+0000\n"
+"PO-Revision-Date: 2015-11-13 12:32+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Acknowledgement of receipt"
+msgstr "Accusé de réception"
+
+#. module: BBCreports
+#: model:ir.actions.report.xml,name:BBCreports.report_deliverynoteBBC
+msgid "Albaran BBC"
+msgstr "Albaran BBC"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Amount"
+msgstr "Montant"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Base"
+msgstr "Montant H.T."
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Cancelled Invoice"
+msgstr "Facture annulée"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Comment:"
+msgstr "Commentaire:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Customer Code:"
+msgstr "Code client:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Date Ordered:"
+msgstr "Date de commande :"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Date Req."
+msgstr "Date prévue"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Delivery Address:"
+msgstr "Direction de livraison: "
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Delivery Date"
+msgstr "Date de livraison"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Delivery date:"
+msgstr "Date de livraison "
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Delivery note"
+msgstr "Bon de livraison"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Delivery note:"
+msgstr "Bon de livraison Nº"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Description"
+msgstr "Description"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Destination"
+msgstr "Destination"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Discount (%)"
+msgstr "Descompte (%)"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Draft Invoice"
+msgstr "Avant-projet de facture"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Due Date"
+msgstr "Echéance"
+
+#. module: BBCreports
+#: model:ir.actions.report.xml,name:BBCreports.report_saleinvoiceBBC
+msgid "Factura de venta BBC"
+msgstr "Factura de venta BBC"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Fiscal Position Remark:"
+msgstr "Remarque position financière"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Invoice"
+msgstr "Facture"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Invoice Date:"
+msgstr "Date facture:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Invoice address:"
+msgstr "Adresse de facturation :"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Invoice and shipping address:"
+msgstr "Adresse de facturation et livraison"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Lot Nº"
+msgstr "Lot Nº"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Net Price"
+msgstr "Prix net"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Order (Origin)"
+msgstr "Commande N.º"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Order Date:"
+msgstr "Date de la commande"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Order N°"
+msgstr "N° de commande"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Our Order Reference:"
+msgstr "Our Order Reference:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "PRO-FORMA"
+msgstr "PRO-FORMA"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Pallets"
+msgstr "Pallets"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Payment Details:"
+msgstr "Coordonnées bancaires:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Payment Term:"
+msgstr "Conditions de règlement:"
+
+#. module: BBCreports
+#: model:ir.actions.report.xml,name:BBCreports.report_purchaseBBC
+msgid "Pedido de compra BBC"
+msgstr "Pedido de compra BBC"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Peso bruto"
+msgstr "Poids brut"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Peso neto"
+msgstr "Poids net"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Price"
+msgstr "Prix"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Product"
+msgstr "Producte"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Purchase Order N°"
+msgstr "Purchase Order N°"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Qty"
+msgstr "Qté"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Quantity"
+msgstr "Quantité"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Quotation Date:"
+msgstr "Date du devis:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Ref. seguimiento transportista"
+msgstr "Ref. transporteur"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Reference:"
+msgstr "Référence:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Refund"
+msgstr "Facture rectifiée"
+
+#. module: BBCreports
+#: model:ir.actions.report.xml,name:BBCreports.report_saleBBC
+msgid "Reporte BBC"
+msgstr "Reporte BBC"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Salesperson:"
+msgstr "Vendeur:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+msgid "Shipping address:"
+msgstr "Adresse de livraison :"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Supplier Address:"
+msgstr "Supplier Address: "
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Supplier Invoice"
+msgstr "Facture fournisseur"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Supplier Refund"
+msgstr "Facture fournisseur rectifiée"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Tax"
+msgstr "Taxe"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Taxes"
+msgstr "Taxes"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Total"
+msgstr "Total"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Total Without Taxes"
+msgstr "Total H.T."
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Transportista"
+msgstr "Transporteur"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Unit Price"
+msgstr "Prix unitaire"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+#: view:website:BBCreports.report_purchaseBBC_document
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "VAT:"
+msgstr "VAT Nº"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Validated By:"
+msgstr "Validé par:"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Warehouse Address:"
+msgstr "Adresse d'entrepôt: "
+
+#. module: BBCreports
+#: view:website:BBCreports.report_purchaseBBC_document
+msgid "Your Order Reference"
+msgstr "Votre Référence Commande"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Your Order Reference:"
+msgstr "Votre commande N.º"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_pickingBBC_document
+msgid "Your Product Reference"
+msgstr "Votre référence de produit"
+
+#. module: BBCreports
+#: view:website:BBCreports.report_saleBBC_document
+#: view:website:BBCreports.report_saleinvoiceBBC_document
+msgid "Your Reference:"
+msgstr "Votre référence:"
+

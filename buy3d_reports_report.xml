@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report
+            id="report_saleBBC"
+            string="Reporte BBC"
+            model="sale.order"
+            report_type="qweb-pdf"
+            file="BBCreports.report_saleBBCtemplate"
+            name="BBCreports.report_saleBBCtemplate"
+        />
+        <report
+            id="report_deliverynoteBBC"
+            string="Albaran BBC"
+            model="stock.picking"
+            report_type="qweb-pdf"
+            file="BBCreports.report_deliverynoteBBCtemplate"
+            name="BBCreports.report_deliverynoteBBCtemplate"
+        />
+        <report
+            id="report_purchaseBBC"
+            string="Pedido de compra BBC"
+            model="purchase.order"
+            report_type="qweb-pdf"
+            file="BBCreports.report_purchaseBBCtemplate"
+            name="BBCreports.report_purchaseBBCtemplate"
+        />
+        <report
+            id="report_saleinvoiceBBC"
+            string="Factura de venta BBC"
+            model="account.invoice"
+            report_type="qweb-pdf"
+            file="BBCreports.report_saleinvoiceBBCtemplate"
+            name="BBCreports.report_saleinvoiceBBCtemplate"
+        />
+    </data>
+</openerp>
